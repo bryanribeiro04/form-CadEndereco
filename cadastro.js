@@ -1,0 +1,1 @@
+'use srict'; // modo restrito
